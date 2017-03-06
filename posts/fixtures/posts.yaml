@@ -1,0 +1,23 @@
+- model: posts.post
+  pk: 1
+  fields:
+    title: "Post1"
+    content: "Content"
+
+- model: posts.post
+  pk: 2
+  fields:
+    title: "Post2"
+    content: "<p>Content</p>"
+
+- model: posts.post
+  pk: 3
+  fields:
+    title: "Post3"
+    content: "Content"
+
+- model: posts.post
+  pk: 4
+  fields:
+    title: "Post4"
+    content: "Content"
